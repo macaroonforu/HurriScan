@@ -1,5 +1,5 @@
 <h1 align="center">
-🧠 A Neural Network to Predict Hurricane Intensites🧠
+🧠A Neural Network to Predict Hurricane Intensites🧠
 </h1>
 
 <div align="center">
@@ -15,6 +15,6 @@
 ### Data Acquisition
 - See Data_Acquistion.ipynb
 
-### Data Pre-Processing/Very Rough Baseline Model
+### Data Pre-Processing/Augmentation/Very Rough Baseline Model
 - See Data_Splitting_Baseline.ipynb
 
