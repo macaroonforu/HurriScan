@@ -16,5 +16,5 @@
 - See Data_Acquistion.ipynb
 
 ### Data Pre-Processing/Very Rough Baseline Model
-- See Data_Splitting/Baseline.ipynb
+- See Data_Splitting_Baseline.ipynb
 
