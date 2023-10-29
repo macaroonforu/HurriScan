@@ -1,5 +1,5 @@
 <h1 align="center">
-🧠 A Neural Network to Predict Intensity of Hurricanes 🧠
+🧠 A Neural Network to Predict Hurricane Intensites🧠
 </h1>
 
 <div align="center">
