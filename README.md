@@ -8,7 +8,7 @@
 
 ## A project By: Thardchi, Charlotte, Claire, Sean 
 
-*disclaimer: *
+*disclaimer:*
 
 ## Progress
 
