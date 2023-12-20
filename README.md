@@ -8,7 +8,7 @@
 
 ## A project By: Thardchi, Charlotte, Claire, Sean 
 
-*As a disclaimer, we acknowledge that there may be mistakes or poor decisions made in the code contained in these notebooks, but it is a learning experience, as it is the first attempt at tackling a project of this sort for almost all team members!*
+*disclaimer: *
 
 ## Progress
 
