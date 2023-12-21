@@ -1,4 +1,5 @@
 <h1 align="center"> The HurriScan Project </h1>
+<h2 align="center"> By Claire Dimitriuc, Charlotte Fritz, Thardchi Ganesalingam & Sean Pourgoutzidis </h2>
 <div align="center">
   <!--![Image](Images/Hursat_Visualizer.png)-->
   <img src="https://github.com/macaroonforu/HurriScan/blob/main/Images/Hursat_Visualizer.png?pngraw=true">
