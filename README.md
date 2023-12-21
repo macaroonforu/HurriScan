@@ -3,7 +3,7 @@
 <div align="center">
   <!--![Image](Images/Hursat_Visualizer.png)-->
   <img src="https://github.com/macaroonforu/HurriScan/blob/main/Images/Hursat_Visualizer.png?pngraw=true">
-  By Claire Dimitriuc, Charlotte Fritz, Thardchi Ganesalingam & Sean Pourgoutzidis
+<div align="center"> By Claire Dimitriuc, Charlotte Fritz, Thardchi Ganesalingam & Sean Pourgoutzidis </div>
   <!--![alt text](https://github.com/macaroonforu/HurriScan/blob/main/Images/Hursat_Visualizer.png?raw=true)-->
 </div>
 
