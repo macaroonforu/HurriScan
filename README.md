@@ -9,6 +9,7 @@
 
 ## Description
 
+
 The HurriScan Project is a PyTorch-based deep learning model, developed as a tool for hurricane intensity forecasting. By providing accurate and timely hurricane forecasting predictions, the project aims to mitigate the devastating impact of hurricanes on human lives. This project was developed by Thardchi Ganesalingam, Charlotte Fritz, Claire Dimitriuc, & Sean Pourgoutzidis for the Introduction to Machine Learning Course (APS360) at the University of Toronto.
 
 <div align="center">
